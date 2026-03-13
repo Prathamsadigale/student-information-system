@@ -1,0 +1,4 @@
+S001, John, 20, 85, john@email.com
+S002, Jane Smith, 20, 92.0, jane@email.com
+S003, babu bhai, 21, 90, babubhai@email.com
+S004, jst to check what does it shoes 
